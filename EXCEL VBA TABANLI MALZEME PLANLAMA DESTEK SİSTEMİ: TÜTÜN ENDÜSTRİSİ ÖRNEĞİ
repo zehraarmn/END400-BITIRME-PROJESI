@@ -1,0 +1,663 @@
+Private Sub ComboBox1_Change()
+If ComboBox1.Text = "40096469" Then
+TextBox5.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+ElseIf ComboBox1.Text = "40126433" Then
+TextBox5.Text = "BPK_BB510_RB_20_E_RE_ISR"
+ElseIf ComboBox1.Text = "40162670" Then
+TextBox5.Text = "BPK_BB510_RF_20_K_SS_IRQ_PURP"
+ElseIf ComboBox1.Text = "40126566" Then
+TextBox5.Text = "BPK_BB510_RB_20_K_RE_ISR"
+ElseIf ComboBox1.Text = "40094543" Then
+TextBox5.Text = "BPK_KopDu_RB_XX_K_RE"
+ElseIf ComboBox1.Text = "40142341" Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40150805" Then
+TextBox5.Text = "BPK_Ens-L_WE_20_K_RE_TUR_MXA"
+ElseIf ComboBox1.Text = "40142411 " Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40136383" Then
+TextBox5.Text = "BPK_BB510_SQ_20_E_SS_TUR"
+ElseIf ComboBox1.Text = "40142432" Then
+TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40094689" Then
+TextBox5.Text = "BPK_BB515_SQ_20_K_RE_DF"
+ElseIf ComboBox1.Text = "40142416" Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40105633" Then
+    TextBox5.Text = "BPK_BB515_SQ_10_K_RE_QAT"
+ElseIf ComboBox1.Text = "40142343" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142046" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40164954" Then
+    TextBox5.Text = "BPK_BB510_SQ_10_K_RE_KUW_ARB"
+ElseIf ComboBox1.Text = "40119561" Then
+    TextBox5.Text = "BPK_BB580_RB_20_K_RE_IRQ"
+ElseIf ComboBox1.Text = "40163357" Then
+    TextBox5.Text = "BPK_BB510_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40160638" Then
+    TextBox5.Text = "BPK_BB510_RF_20_K_SS_IRQ"
+ElseIf ComboBox1.Text = "40105783" Then
+    TextBox5.Text = "BPK_BB515_SQ_10_K_RE_ARE"
+ElseIf ComboBox1.Text = "40142342" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40163352" Then
+    TextBox5.Text = "BPK_BB510_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142325" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142328" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40131683" Then
+    TextBox5.Text = "BPK_BB515_SQ_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142311" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142420" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142352" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40142344" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40094572" Then
+    TextBox5.Text = "BPK_BB515_SQ_XX_K_RE"
+ElseIf ComboBox1.Text = "40142425" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142346" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142350" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40141955" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40167069" Then
+    TextBox5.Text = "BPK_BB510_WE_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40132317" Then
+    TextBox5.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox1.Text = "40142268" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142301" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40132367" Then
+    TextBox5.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox1.Text = "40142353" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142351" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142042" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40142288" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40098505" Then
+    TextBox5.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+End If
+Sayfa1.Cells(2, 2) = ComboBox1.Text
+'TextBox5.Text = Application.WorksheetFunction.VLookup(ComboBox1, Sheets("veri").Range("B2:d45"), 2, 0)
+TextBox4.Text = "10310991"
+TextBox2.Text = Sayfa1.Cells(3, 16)
+TextBox2.Text = Format(Sayfa1.Cells(3, 16), "0.00")
+TextBox1.Text = Sayfa1.Cells(3, 15)
+TextBox1.Text = Format(Sayfa1.Cells(3, 15), "0.00")
+TextBox3.Text = Sayfa1.Cells(3, 17)
+TextBox3.Text = Format(Sayfa1.Cells(3, 17), "0") - 1
+TextBox6.Text = Sayfa1.Cells(3, 18)
+TextBox6.Text = Format(Sayfa1.Cells(3, 18), "0")
+End Sub
+
+Private Sub ComboBox4_Change()
+Sayfa1.Cells(2, 2) = ComboBox4.Text
+TextBox20.Text = Sayfa1.Cells(3, 16)
+TextBox20.Text = Format(Sayfa1.Cells(3, 16), "0.00")
+TextBox19.Text = Sayfa1.Cells(3, 15)
+TextBox19.Text = Format(Sayfa1.Cells(3, 15), "0.00")
+TextBox21.Text = Sayfa1.Cells(3, 17)
+TextBox21.Text = Format(Sayfa1.Cells(3, 17), "0") - 1
+TextBox17.Text = Sayfa1.Cells(3, 18)
+TextBox17.Text = Format(Sayfa1.Cells(3, 18), "0")
+ComboBox1.Text = ComboBox4.Text
+If ComboBox4.Text = "40096469" Then
+TextBox18.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+ElseIf ComboBox4.Text = "40126433" Then
+TextBox18.Text = "BPK_BB510_RB_20_E_RE_ISR"
+ElseIf ComboBox4.Text = "40162670" Then
+TextBox18.Text = "BPK_BB510_RF_20_K_SS_IRQ_PURP"
+ElseIf ComboBox4.Text = "40126566" Then
+TextBox18.Text = "BPK_BB510_RB_20_K_RE_ISR"
+ElseIf ComboBox4.Text = "40094543" Then
+TextBox18.Text = "BPK_KopDu_RB_XX_K_RE"
+ElseIf ComboBox4.Text = "40142341" Then
+TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40150805" Then
+TextBox18.Text = "BPK_Ens-L_WE_20_K_RE_TUR_MXA"
+ElseIf ComboBox4.Text = "40142411 " Then
+TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40136383" Then
+TextBox18.Text = "BPK_BB510_SQ_20_E_SS_TUR"
+ElseIf ComboBox4.Text = "40142432" Then
+TextBox18.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40094689" Then
+TextBox18.Text = "BPK_BB515_SQ_20_K_RE_DF"
+ElseIf ComboBox4.Text = "40142416" Then
+TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40105633" Then
+    TextBox18.Text = "BPK_BB515_SQ_10_K_RE_QAT"
+ElseIf ComboBox4.Text = "40142343" Then
+    TextBox18.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142046" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox4.Text = "40164954" Then
+    TextBox18.Text = "BPK_BB510_SQ_10_K_RE_KUW_ARB"
+ElseIf ComboBox4.Text = "40119561" Then
+    TextBox18.Text = "BPK_BB580_RB_20_K_RE_IRQ"
+ElseIf ComboBox4.Text = "40163357" Then
+    TextBox18.Text = "BPK_BB510_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40160638" Then
+    TextBox18.Text = "BPK_BB510_RF_20_K_SS_IRQ"
+ElseIf ComboBox4.Text = "40105783" Then
+    TextBox18.Text = "BPK_BB515_SQ_10_K_RE_ARE"
+ElseIf ComboBox4.Text = "40142342" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40163352" Then
+    TextBox18.Text = "BPK_BB510_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142325" Then
+    TextBox18.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142328" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40131683" Then
+    TextBox18.Text = "BPK_BB515_SQ_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40142311" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40142420" Then
+    TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40142352" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox4.Text = "40142344" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40094572" Then
+    TextBox18.Text = "BPK_BB515_SQ_XX_K_RE"
+ElseIf ComboBox4.Text = "40142425" Then
+    TextBox18.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142346" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142350" Then
+    TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40141955" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox4.Text = "40167069" Then
+    TextBox18.Text = "BPK_BB510_WE_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40132317" Then
+    TextBox18.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox4.Text = "40142268" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40142301" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox4.Text = "40132367" Then
+    TextBox18.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox4.Text = "40142353" Then
+    TextBox18.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox4.Text = "40142351" Then
+    TextBox18.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox4.Text = "40142042" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox4.Text = "40142288" Then
+    TextBox18.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox4.Text = "40098505" Then
+    TextBox18.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+End If
+'ListBox4.RowSource = "'GANT'!A2:BC46"
+End Sub
+
+Private Sub ComboBox5_Change()
+'Sayfa6.Cells(2, 15) = ComboBox5.Text
+'TextBox23.Text = Sayfa6.Cells(2, 16)
+'TextBox24.Text = Sayfa6.Cells(2, 17)
+'TextBox25.Text = Sayfa6.Cells(2, 18)
+'TextBox26.Text = Sayfa6.Cells(2, 19)
+'TextBox27.Text = Sayfa6.Cells(2, 20)
+'TextBox28.Text = Sayfa6.Cells(2, 21)
+'TextBox29.Text = Sayfa6.Cells(2, 22)
+'TextBox30.Text = Sayfa6.Cells(2, 23)
+End Sub
+
+Private Sub ComboBox6_Change()
+Sayfa6.Cells(2, 15) = ComboBox6.Text
+TextBox32.Text = Sayfa6.Cells(2, 16)
+TextBox33.Text = Sayfa6.Cells(2, 17)
+TextBox34.Text = Sayfa6.Cells(2, 18)
+TextBox35.Text = Sayfa6.Cells(2, 19)
+TextBox36.Text = Sayfa6.Cells(2, 20)
+TextBox37.Text = Sayfa6.Cells(2, 21)
+TextBox38.Text = Sayfa6.Cells(2, 22)
+TextBox31.Text = Sayfa6.Cells(2, 23)
+End Sub
+
+Sub gantYukle()
+Dim myChart As Chart
+Set myChart = Sayfa4.Shapes("gantt").Chart
+myChart.Export VBA.Environ("TEMP") & Application.PathSeparator & "grafikkkk.jpg"
+Image4.Picture = LoadPicture(VBA.Environ("TEMP") & Application.PathSeparator & "grafikkkk.jpg")
+End Sub
+
+Private Sub CommandButton11_Click()
+MultiPage1.Value = 0
+End Sub
+
+Private Sub CommandButton12_Click()
+MultiPage1.Value = 0
+End Sub
+
+Private Sub CommandButton13_Click()
+'Dim a As Integer
+'a = Sayfa6.Cells(2, 24)
+'Sayfa2.Cells(a, 2) = TextBox23.Text
+'Sayfa2.Cells(a, 3) = TextBox24.Text
+'Sayfa2.Cells(a, 4) = TextBox25.Text
+'Sayfa2.Cells(a, 5) = TextBox26.Text
+'Sayfa2.Cells(a, 6) = TextBox27.Text
+'Sayfa2.Cells(a, 7) = TextBox28.Text
+'Sayfa2.Cells(a, 8) = TextBox29.Text
+'Sayfa2.Cells(a, 10) = TextBox30.Text
+End Sub
+
+Private Sub ComboBox7_Change()
+Sayfa1.Cells(2, 2) = ComboBox7.Text
+TextBox22.Text = Sayfa1.Cells(3, 16)
+TextBox22.Text = Format(Sayfa1.Cells(3, 16), "0.00")
+End Sub
+
+Private Sub CommandButton10_Click()
+If ComboBox4.Text = "" Then
+MsgBox "Please select the material code for which you would like to see the Gantt chart.", vbInformation
+Else
+gantYukle
+End If
+End Sub
+
+Private Sub CommandButton14_Click()
+MultiPage1.Value = 2
+ComboBox6.RowSource = "'MODEL VERİLERİ'!A2: A45 "
+End Sub
+
+Private Sub CommandButton15_Click()
+If Not IsNumeric(TextBox31.Value) Then
+        MsgBox "The entered value for Surcharge is not a number.", vbExclamation, "UYARI"
+'ElseIf Not IsNumeric(TextBox31.Value) Then
+'MsgBox "The entered value for Surcharge is not a number.", vbCritical, "UYARI"
+ElseIf Not IsNumeric(TextBox34.Value) Then
+MsgBox "The entered value for Demand is not a number.", vbCritical, "UYARI"
+ElseIf Not IsNumeric(TextBox35.Value) Then
+MsgBox "The entered value for Pallet Size is not a number.", vbCritical, "UYARI"
+ElseIf Not IsNumeric(TextBox36.Value) Then
+MsgBox "The entered value for Payment Term is not a number.", vbCritical, "UYARI"
+ElseIf Not IsNumeric(TextBox37.Value) Then
+MsgBox "The entered value for Planned Delivery Time in Days is not a number.", vbCritical, "UYARI"
+ElseIf Not IsNumeric(TextBox38.Value) Then
+MsgBox "The entered value for Gross Price is not a number.", vbCritical, "UYARI"
+Else
+onay.Show
+End If
+'Dim a As Integer
+'a = Sayfa6.Cells(2, 24)
+'Sayfa2.Cells(a, 2) = TextBox32.Text
+'Sayfa2.Cells(a, 3) = TextBox33.Text
+'Sayfa2.Cells(a, 4) = TextBox34.Text
+'Sayfa2.Cells(a, 5) = TextBox35.Text
+'Sayfa2.Cells(a, 6) = TextBox36.Text
+'Sayfa2.Cells(a, 7) = TextBox37.Text
+'Sayfa2.Cells(a, 8) = TextBox38.Text
+'Sayfa2.Cells(a, 10) = TextBox31.Text
+End Sub
+
+Private Sub CommandButton17_Click()
+pastaYukle
+End Sub
+Sub pastaYukle()
+Dim myChart As Chart
+Set myChart = Sayfa10.Shapes("pasta").Chart
+myChart.Export VBA.Environ("TEMP") & Application.PathSeparator & "grafikkk.jpg"
+Image3.Picture = LoadPicture(VBA.Environ("TEMP") & Application.PathSeparator & "grafikkk.jpg")
+End Sub
+
+
+Private Sub CommandButton16_Click()
+ListBox2.RowSource = ""
+TextBox16.Text = ""
+End Sub
+
+
+
+
+Private Sub CommandButton18_Click()
+pastaYukle
+End Sub
+
+Private Sub CommandButton19_Click()
+On Error Resume Next
+ActiveWorkbook.FollowHyperlink Address:="https://www.linkedin.com/in/zehra-arman-94323b18a/"
+
+End Sub
+
+Private Sub CommandButton2_Click()
+On Error Resume Next
+ActiveWorkbook.FollowHyperlink Address:="https://www.linkedin.com/in/hatice-esra-%C3%B6zay-96b86b1bb/"
+
+End Sub
+
+Private Sub CommandButton1_Click()
+On Error Resume Next
+ActiveWorkbook.FollowHyperlink Address:="https://www.linkedin.com/in/elif-t%C3%BCfek%C3%A7i-714070222/"
+End Sub
+
+Private Sub CommandButton20_Click()
+On Error Resume Next
+ActiveWorkbook.FollowHyperlink Address:="https://avesis.omu.edu.tr/sermin.elevli"
+End Sub
+
+Private Sub CommandButton25_Click()
+If ComboBox6.Text = "" Then
+MsgBox "Please select the material code for which you want to update the data.", vbInformation
+Else
+sifre.Show
+End If
+End Sub
+
+Private Sub CommandButton27_Click()
+If ComboBox7.Text = "" Then
+MsgBox "Please select the Material Code for which you would like to see the Total Cost Graphıc.", vbInformation
+Else
+grafikYukle
+ComboBox1.Text = ComboBox7.Text
+TextBox22.Text = TextBox2.Text
+End If
+End Sub
+
+Private Sub CommandButton28_Click()
+Unload Me
+Application.Visible = True
+End Sub
+
+Private Sub CommandButton3_Click()
+On Error Resume Next
+ActiveWorkbook.FollowHyperlink Address:="https://www.linkedin.com/in/%C5%9Feymanur-demirta%C5%9F-0868741bb/"
+End Sub
+
+Private Sub CommandButton4_Click()
+If ComboBox1.Text = "" Then
+MsgBox "Please select the Material Code.", vbInformation
+Else
+If ComboBox1.Text = "40096469" Then
+TextBox5.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+ElseIf ComboBox1.Text = "40126433" Then
+TextBox5.Text = "BPK_BB510_RB_20_E_RE_ISR"
+ElseIf ComboBox1.Text = "40162670" Then
+TextBox5.Text = "BPK_BB510_RF_20_K_SS_IRQ_PURP"
+ElseIf ComboBox1.Text = "40126566" Then
+TextBox5.Text = "BPK_BB510_RB_20_K_RE_ISR"
+ElseIf ComboBox1.Text = "40094543" Then
+TextBox5.Text = "BPK_KopDu_RB_XX_K_RE"
+ElseIf ComboBox1.Text = "40142341" Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40150805" Then
+TextBox5.Text = "BPK_Ens-L_WE_20_K_RE_TUR_MXA"
+ElseIf ComboBox1.Text = "40142411 " Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40136383" Then
+TextBox5.Text = "BPK_BB510_SQ_20_E_SS_TUR"
+ElseIf ComboBox1.Text = "40142432" Then
+TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40094689" Then
+TextBox5.Text = "BPK_BB515_SQ_20_K_RE_DF"
+ElseIf ComboBox1.Text = "40142416" Then
+TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40105633" Then
+    TextBox5.Text = "BPK_BB515_SQ_10_K_RE_QAT"
+ElseIf ComboBox1.Text = "40142343" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142046" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40164954" Then
+    TextBox5.Text = "BPK_BB510_SQ_10_K_RE_KUW_ARB"
+ElseIf ComboBox1.Text = "40119561" Then
+    TextBox5.Text = "BPK_BB580_RB_20_K_RE_IRQ"
+ElseIf ComboBox1.Text = "40163357" Then
+    TextBox5.Text = "BPK_BB510_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40160638" Then
+    TextBox5.Text = "BPK_BB510_RF_20_K_SS_IRQ"
+ElseIf ComboBox1.Text = "40105783" Then
+    TextBox5.Text = "BPK_BB515_SQ_10_K_RE_ARE"
+ElseIf ComboBox1.Text = "40142342" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40163352" Then
+    TextBox5.Text = "BPK_BB510_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142325" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142328" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40131683" Then
+    TextBox5.Text = "BPK_BB515_SQ_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142311" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142420" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142352" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40142344" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40094572" Then
+    TextBox5.Text = "BPK_BB515_SQ_XX_K_RE"
+ElseIf ComboBox1.Text = "40142425" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142346" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142350" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40141955" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40167069" Then
+    TextBox5.Text = "BPK_BB510_WE_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40132317" Then
+    TextBox5.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox1.Text = "40142268" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142301" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40132367" Then
+    TextBox5.Text = "BPK_BB515_RF_20_K_SS_TUR"
+ElseIf ComboBox1.Text = "40142353" Then
+    TextBox5.Text = "BPK_BB515_RB_20_K_RE_TUR"
+ElseIf ComboBox1.Text = "40142351" Then
+    TextBox5.Text = "BPK_BB515_RB_20_E_RE_TUR"
+ElseIf ComboBox1.Text = "40142042" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_E_DS_TUR"
+ElseIf ComboBox1.Text = "40142288" Then
+    TextBox5.Text = "BPK_KopDu_RB_20_K_DS_TUR"
+ElseIf ComboBox1.Text = "40098505" Then
+    TextBox5.Text = "BPK_BB515_SQ_20_K_RE_GTRAE"
+End If
+
+Sayfa1.Cells(2, 2) = ComboBox1.Text
+'TextBox5.Text = Application.WorksheetFunction.VLookup(ComboBox1, Sheets("veri").Range("B2:d45"), 2, 0)
+TextBox4.Text = "10310991"
+TextBox2.Text = Sayfa1.Cells(3, 16)
+TextBox2.Text = Format(Sayfa1.Cells(3, 16), "0.00")
+TextBox1.Text = Sayfa1.Cells(3, 15)
+TextBox1.Text = Format(Sayfa1.Cells(3, 15), "0.00")
+TextBox3.Text = Sayfa1.Cells(3, 17)
+TextBox3.Text = Format(Sayfa1.Cells(3, 17), "0") - 1
+TextBox6.Text = Sayfa1.Cells(3, 18)
+TextBox6.Text = Format(Sayfa1.Cells(3, 18), "0")
+ListBox1.RowSource = "'MODEL'!b9: ıq20 "
+End If
+
+'TextBox4.Text = Application.WorksheetFunction.VLookup(ComboBox1, Sheets("MODEL VERİLERİ").Range("A2:d45"), 3, 0)
+End Sub
+
+Private Sub CommandButton5_Click()
+If ComboBox3.Text = "" Then
+MsgBox "Please select the supplier you want to filter.", vbInformation
+Else
+If ComboBox3.Text = "10059839" Then
+ListBox2.RowSource = "'VERİ'!C2:C52"
+TextBox16.Text = "G***I K***w"
+ElseIf ComboBox3.Text = "10064144" Then
+ListBox2.RowSource = "'VERİ'!D2:D86"
+TextBox16.Text = "G***I G***z"
+ElseIf ComboBox3.Text = "10073955" Then
+ListBox2.RowSource = "'VERİ'!E2:E498"
+TextBox16.Text = "A***r S***y"
+ElseIf ComboBox3.Text = "10148857" Then
+ListBox2.RowSource = "'VERİ'!F2:F15"
+TextBox16.Text = "G***I F***t"
+ElseIf ComboBox3.Text = "10168167" Then
+ListBox2.RowSource = "'VERİ'!G2:G5"
+TextBox16.Text = "S***C E***m"
+ElseIf ComboBox3.Text = "10293884" Then
+ListBox2.RowSource = "'VERİ'!H2:H6"
+TextBox16.Text = "A***R T***O"
+ElseIf ComboBox3.Text = "10310991" Then
+ListBox2.RowSource = "'VERİ'!I2:I386"
+TextBox16.Text = "E***m"
+Else
+ListBox2.RowSource = "'VERİ'!J2:J3"
+TextBox16.Text = "E***N K***N"
+End If
+End If
+
+End Sub
+
+Private Sub CommandButton6_Click()
+ListBox3.RowSource = "'all eoq'!a2:e45"
+End Sub
+
+Sub VerileriKopyala()
+    Dim wbKaynak As Workbook
+    Dim wsKaynak As Worksheet
+    Dim wbHedef As Workbook
+    Dim wsHedef As Worksheet
+    Dim sonSatir As Long
+    Dim kaynakDosyaYolu As String
+    
+    ' Kaynak çalışma kitabı ve sayfasını belirleyin
+    Set wbKaynak = ThisWorkbook
+    Set wsKaynak = wbKaynak.Sheets("ALL EOQ")
+    
+    ' Hedef dosya yolunu belirtin (masaüstü)
+    kaynakDosyaYolu = Environ("USERPROFILE") & "\Desktop\SAP_EOQ.xlsx"
+    
+    ' Hedef çalışma kitabını açın
+    On Error Resume Next
+    Set wbHedef = Workbooks.Open(kaynakDosyaYolu)
+    On Error GoTo 0
+    
+    ' Eğer dosya açılamazsa hata mesajı verin ve çıkın
+    If wbHedef Is Nothing Then
+        MsgBox "Hedef dosya açılamadı: " & kaynakDosyaYolu, vbCritical
+        Exit Sub
+    End If
+    
+    ' Hedef çalışma sayfasını belirleyin
+    Set wsHedef = wbHedef.Sheets("Sayfa1")
+    
+    ' Kaynak verilerin son satırını bulun
+    sonSatir = wsKaynak.Cells(wsKaynak.Rows.Count, "A").End(xlUp).Row
+    
+    ' Kaynak verileri kopyalayın
+    wsKaynak.Range("A1:Z" & sonSatir).Copy
+    
+    ' Hedef sayfaya yapıştırın
+    wsHedef.Range("A1").PasteSpecial Paste:=xlPasteValues
+    
+    ' Hedef dosyayı kaydedin ve kapatın
+    wbHedef.Save
+    wbHedef.Close
+    
+    ' Kopyalama işlemi tamamlandı mesajı verin
+    MsgBox "Data has been successfully transferred!", vbInformation
+End Sub
+
+Private Sub CommandButton7_Click()
+VerileriKopyala
+End Sub
+
+Private Sub CommandButton8_Click()
+ListBox3.RowSource = ""
+End Sub
+Private Sub CommandButton9_Click()
+If TextBox2.Text = "" Then
+MsgBox "Please select the Material Code for which you would like to see the Total Cost Graphıc.", vbInformation
+Else
+MultiPage1.Value = 3
+grafikYukle
+TextBox22.Text = TextBox2.Text
+ComboBox7.Text = ComboBox1.Text
+End If
+
+End Sub
+Private Sub DelItm_Click()
+TextBox1.Text = ""
+TextBox2.Text = ""
+TextBox3.Text = ""
+TextBox4.Text = ""
+TextBox5.Text = ""
+TextBox6.Text = ""
+ListBox1.RowSource = ""
+End Sub
+Sub grafikYukle()
+Dim myChart As Chart
+Set myChart = Sayfa1.Shapes("grafik").Chart
+myChart.Export VBA.Environ("TEMP") & Application.PathSeparator & "grafikk.jpg"
+Image1.Picture = LoadPicture(VBA.Environ("TEMP") & Application.PathSeparator & "grafikk.jpg")
+End Sub
+
+Private Sub InvSaveBtn_Click()
+MultiPage1.Value = 1
+gantYukle
+End Sub 
+
+Private Sub MultiPage1_Change()
+ListBox1.RowSource = "'MODEL'!b10:ıq20"
+'Dim TextBox1 As Integer
+TextBox18.Text = TextBox5.Text
+ComboBox4.Text = ComboBox1.Text
+TextBox19.Text = TextBox1.Text
+TextBox20.Text = TextBox2.Text
+TextBox21.Text = TextBox3.Text
+TextBox17.Text = TextBox6.Text
+End Sub
+Private Sub CommandButton6_Click()
+    If TextBox3.Text = "12345" Then
+        frmAnaEkran.Hide
+        ARAYÜZ.Show
+    Else
+        MsgBox "Invalid Password", vbInformation
+        TextBox3.Text = ""
+    End If
+End Sub
+
+Private Sub CommandButton7_Click()
+frmAnaEkran.Hide
+End Sub
+
+Private Sub UserForm_Initialize()
+    ' TextBox3'ün PasswordChar özelliğini ayarlayın
+    TextBox3.PasswordChar = "*"
+TextBox2.Text = "END400"
+End Sub
+
+Private Sub CommandButton6_Click()
+
+Dim a As Integer
+a = Sayfa6.Cells(2, 24)
+Sayfa2.Cells(a, 2) = ARAYÜZ.TextBox32.Text
+Sayfa2.Cells(a, 3) = ARAYÜZ.TextBox33.Text
+Sayfa2.Cells(a, 4) = ARAYÜZ.TextBox34.Text
+Sayfa2.Cells(a, 5) = ARAYÜZ.TextBox35.Text
+Sayfa2.Cells(a, 6) = ARAYÜZ.TextBox36.Text
+Sayfa2.Cells(a, 7) = ARAYÜZ.TextBox37.Text
+Sayfa2.Cells(a, 8) = ARAYÜZ.TextBox38.Text
+Sayfa2.Cells(a, 10) = ARAYÜZ.TextBox31.Text
+onay.Hide
+MsgBox "The data has been successfully updated.", vbInformation
+End Sub
+
+Private Sub CommandButton7_Click()
+onay.Hide
+MsgBox "The data update has been canceled.", vbInformation
+End Sub
